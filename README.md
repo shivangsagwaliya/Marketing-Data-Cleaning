@@ -13,7 +13,7 @@ The dataset contains 2020 rows of marketing campaign data with the following ini
 * **Outliers:** Extreme values in the spending data.
 
 ## 🛠️ Technologies Used
-* **Python **
+* **Python**
 * **Pandas** (Data manipulation)
 * **NumPy** (Numerical operations)
 
